@@ -1,0 +1,14 @@
+layout_spectrum: 0.1127342761028558
+typography_spectrum: 0.8070466879289597
+color:
+  brandStrength: 0.9144974793307483
+  lightness: 0.4721440833527595
+  saturation: 0.8898427777457982
+  rhythmicContrast: 0.7926157733891159
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: getoutthere
