@@ -1,4 +1,3 @@
-layout_spectrum: 0.1127342761028558
 typography_spectrum: 0.8070466879289597
 color:
   brandStrength: 0.9144974793307483
@@ -11,4 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.1127342761028558
 name: getoutthere
+title: GET OUT THERE
+description: A place to share my adventures as they come
