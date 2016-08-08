@@ -11,6 +11,9 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.1127342761028558
+author:
+  name: Wade French
+  email: wade.r.french@gmail.com
 name: getoutthere
 title: GET OUT THERE
 description: A place to share my adventures as they come
